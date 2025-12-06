@@ -1,0 +1,24 @@
+# MacOs
+.DS_Store
+
+# Log file
+*.log
+
+# IntelliJ files
+.idea/
+*.iml
+token.txt
+
+
+# Project files (VSCode, Eclipse)
+.project
+.vscode/
+.settings/
+.classpath
+.factorypath
+
+# Target files
+target/
+
+# Secrets
+.env
